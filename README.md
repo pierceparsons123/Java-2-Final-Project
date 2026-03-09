@@ -60,4 +60,5 @@ A user can enter their monthly income to estimate affordable rent, browse housin
 - Pierce Parsons
 
 **Course**
+
 This project was created as part of a programming course assignment focused on applying programming concepts to real-world social equity topics.
