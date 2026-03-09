@@ -2,6 +2,7 @@
  Affordable Housing Navigator
 
 **Project Description**
+
 Affordable Housing Navigator is a Java console program designed to help users learn about housing assistance options and find local housing resources. The program provides tools for estimating affordable rent, exploring housing programs, estimating housing waitlist times, and viewing tenant rights information.
 
 The goal of this project is to demonstrate how technology can help connect people with important housing information and support resources.
@@ -15,6 +16,7 @@ The goal of this project is to demonstrate how technology can help connect peopl
 - Ability to save favorite resources
 
 **Supported Regions**
+
 The program currently includes sample housing resources for:
 
 - Everett, WA
@@ -24,6 +26,7 @@ The program currently includes sample housing resources for:
 Users enter their ZIP code and the program displays housing resources for that area.
 
 **Programming Concepts Used**
+
 This project demonstrates several programming concepts learned in class:
 
 - Methods
@@ -49,6 +52,7 @@ This project demonstrates several programming concepts learned in class:
 7. Exit
 
  **Example Use Case**
+ 
 A user can enter their monthly income to estimate affordable rent, browse housing programs such as Section 8, and enter their ZIP code to find housing assistance organizations in their area.
 
  **Authors**
