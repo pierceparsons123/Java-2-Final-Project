@@ -1,0 +1,75 @@
+Affordable Housing Navigator – Programming Outline
+
+ Affordable Housing Navigator – Programming Outline
+
+ Phase 1 – Project Setup
+ 1. Create Java project.
+ 2. Create main class: AffordableHousingNavigator.
+ 3. Import libraries:
+    - Scanner
+    - ArrayList
+    - HashMap
+
+ Phase 2 – Data Structures
+ 4. Create shared data structures:
+    ArrayList<String> HOUSING_PROGRAMS
+    HashMap<String, ArrayList<String>> RESOURCES_BY_ZIP
+    ArrayList<String> FAVORITES
+
+ Phase 3 – Initialization
+ 5. Write initPrograms() method.
+ 6. Write initResources() method.
+
+ Phase 4 – Menu System
+ 7. Create printMainMenu() method.
+ 8. In main(), create while loop to keep program running.
+ 9. Use switch statement to call feature methods.
+
+ Phase 5 – Features
+
+ Feature 1: Rent Affordability Calculator
+ - Ask for monthly income
+ - Calculate recommended rent (income * 0.30)
+
+ Feature 2: Browse Housing Programs
+ - Display list of programs
+ - Allow user to select and view details
+
+ Feature 3: Waitlist Estimator
+ - Input applicants ahead
+ - Input placements per month
+ - Compute wait time
+
+ Feature 4: Tenant Rights Information
+ - Display submenu of rights topics
+
+ Feature 5: Find Local Housing Resources
+ - Ask for ZIP code
+ - Look up resources in HashMap
+ - Display list
+ - Option to save favorite
+
+ Feature 6: Favorites Manager
+ - Display saved resources
+ - Remove or clear favorites
+
+ Team Division (3 People)
+
+ Person 1 - jeff-
+ - Main menu loop
+ - Data initialization
+ - Helper input methods
+
+ Person 2
+- Rent calculator
+ - Waitlist estimator
+
+ Person 3
+ - Housing programs browser
+ - Tenant rights info
+ - Resource search and favorites
+
+ Final Steps
+ - Test all features
+ - Add comments
+ - Prepare README and example outputs.
