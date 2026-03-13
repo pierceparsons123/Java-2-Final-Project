@@ -1,0 +1,44 @@
+
+ Affordable Housing Navigator – Program Flowchart
+
+ [START]
+    |
+    v
+ Initialize Program
+ - Load housing programs list
+ - Load resources by ZIP
+ - Create empty favorites list
+    |
+    v
+ Display MAIN MENU
+    |
+    v
+ User chooses option
+    |
+    +-------------------------------+
+    |       	|       	|   	|
+    v       	v       	v   	v
+ 1 Rent 	2 Programs  3 Waitlist 4 Tenant
+ Calculator   List   	Estimator   Rights
+    |       	|       	|     	|
+    v       	v       	v     	v
+ Calculate   Show list   Compute    Show info
+ 30% rule	of programs wait time  submenu
+    |
+    v
+ 5 Find Local Resources (ZIP search)
+    |
+    v
+ Look up ZIP in resource map
+ Display resources
+ Optionally save to favorites
+    |
+    v
+ 6 Favorites Manager
+ View / remove / clear favorites
+    |
+    v
+ 7 Exit Program
+    |
+    v
+ [END]
